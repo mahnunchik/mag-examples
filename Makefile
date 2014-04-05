@@ -7,8 +7,12 @@ LIB_DIR := lib
 .SUFFIXES:
 .PHONY: all lint
 
-all: lint
+all: prepare
 
 lint:
 	@$(JSHINT) $(LIB)
 	@echo "All right!"
+
+prepare:
+	@rm -rf ./node_modules
+	@npm install --production

@@ -1,6 +1,6 @@
 {
   "name": "mag-examples",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Examples of using mag logger",
   "repository": {
     "type": "git",
@@ -10,6 +10,9 @@
   "main": "lib/index.js",
   "engines": {
     "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "start": "node ./lib/index.js"
   },
   "author": {
     "name": "Eugeny Vlasenko",
