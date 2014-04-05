@@ -21,7 +21,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "mag": "^0.9.0"
+    "mag": "^0.9.0",
+    "mag-examples-module": "mahnunchik/mag-examples#module"
   },
   "devDependencies": {
     "jshint": "^2.5.0"
