@@ -1,0 +1,26 @@
+{
+  "name": "mag-examples",
+  "version": "1.0.0",
+  "description": "Examples of using mag logger",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahnunchik/mag-examples.git"
+  },
+  "private": true,
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": {
+    "name": "Eugeny Vlasenko",
+    "email": "mahnunchik+mag@gmail.com",
+    "url": "http://mahnunchik.tumblr.com/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mag": "mahnunchik/mag#dev"
+  },
+  "devDependencies": {
+    "jshint": "^2.5.0"
+  }
+}
