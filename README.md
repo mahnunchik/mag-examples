@@ -1,5 +1,7 @@
 # mag-examples
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mahnunchik/mag-examples.svg)](https://greenkeeper.io/)
+
 [Mag](https://github.com/mahnunchik/mag) is the streaming logger for NodeJS
 
 ## Examples
